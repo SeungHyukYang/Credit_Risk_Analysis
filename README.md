@@ -27,3 +27,14 @@ Accuracy Score : 64%
 High Risk Precision: 1%
 
 High Risk Recall: 54%
+
+### SMOTEENN
+![스크린샷(110)](https://user-images.githubusercontent.com/85276431/138643262-6631e0fe-f690-4762-8972-18b3338b4214.png)
+Accuracy Score : 65%
+
+High Risk Precision: 1%
+
+High Risk Recall: 70%
+
+### Balanced Random Forest Classifier
+
