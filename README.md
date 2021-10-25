@@ -37,4 +37,20 @@ High Risk Precision: 1%
 High Risk Recall: 70%
 
 ### Balanced Random Forest Classifier
+![스크린샷(114)](https://user-images.githubusercontent.com/85276431/138643619-df8a4a8d-7c94-4319-b30b-6ec577a95a7a.png)
+Accuracy Score : 68%
 
+High Risk Precision: 88%
+
+High Risk Recall: 37%
+
+### Easy Ensemble AdaBoost Classifier
+![스크린샷(115)](https://user-images.githubusercontent.com/85276431/138643781-b4da9ce0-dbad-4a34-99ce-81e34e8d38aa.png)
+Accuracy Score : 68%
+
+High Risk Precision: 88%
+
+High Risk Recall: 37%
+
+## Summary
+All five models show below 70% of accuracy score. Thus, I could conclude prediction models are not suitable for predicting credit card risk. Easy Ensemble AdaBoost Classifier and Balanced Random Forest Classifier showed highest accuracy score of 68% among other models but not enough. If I have to use one of those models, I would choose either Easy Ensemble AdaBoost Classifier or Balanced Random Forest Classifier, but still need to find out more precise and accurate method to predict. 
